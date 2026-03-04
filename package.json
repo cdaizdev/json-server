@@ -1,0 +1,12 @@
+{
+  "name": "@cdaizdev/ultralight-json-server",
+  "version": "1.0.0",
+  "description": "Ultraligth weight json server",
+  "main": "index.js",
+  "bin": {
+    "mini-json": "./index.js"
+  },
+  "keywords": ["json", "server", "mock", "api"],
+  "author": "Cdaizdev",
+  "license": "MIT"
+}
