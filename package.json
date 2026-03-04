@@ -4,7 +4,7 @@
   "description": "Ultraligth weight json server",
   "main": "index.js",
   "bin": {
-    "mini-json": "./index.js"
+    "json-server": "./index.js"
   },
   "keywords": ["json", "server", "mock", "api"],
   "author": "Cdaizdev",
